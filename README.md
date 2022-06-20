@@ -50,7 +50,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://stephanycisn.github.io/"`
+`"homepage": "https://StephanyCisn.github.io/portfolio2"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
