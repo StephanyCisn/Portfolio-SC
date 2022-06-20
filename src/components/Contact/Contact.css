@@ -1,3 +1,7 @@
 .contact {
   flex-direction: column;
+  position: relative; 
+  top: -45px;
 }
+
+

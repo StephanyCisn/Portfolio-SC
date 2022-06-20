@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  title: 'SC.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Stephany Cisneros',
+  role: 'Full Stack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    `I'm a very ambitious full-stack developer looking for an entry level role with the opportunity to work with the latesttechnologies on challenging and diverse projects.`,
+  resume: 'file:///Users/stephanycisneros/Downloads/Resume+(3).html',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/stephany-cisneros/',
+    github: 'https://github.com/StephanyCisn',
   },
 }
 
@@ -21,51 +21,52 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Pomodoro Timer',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'The functionality is the same as a real Pomodoro timer, but you can increase the focus or break durations.',
+    stack: ['Javascript','React', 'React Hooks', 'CSS'],
+    sourceCode: 'https://github.com/StephanyCisn/Pomodoro',
+    livePreview: 'https://pomodoro-ochre.vercel.app',
   },
   {
-    name: 'Project 2',
+    name: 'Restaurant Reservation',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Full Stack application used for creating and managing tables and reservations for a hypothetical restaurant.',
+    stack: ['PostgreSQL', 'Express', 'React', 'Node.js'],
+    sourceCode: 'https://github.com/StephanyCisn/starter-restaurant-reservation',
+    livePreview: 'https://final-cap-frontend.vercel.app/dashboard',
   },
   {
-    name: 'Project 3',
+    name: 'Grubdash',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Built an API - defining routes, URL’s and middleware to perform CRUD operations on dishes and orders resources',
+    stack: ['Express', 'Javascript'],
+    sourceCode: 'https://github.com/StephanyCisn/Grubdash-backend',
+    livePreview: 'https://grubdash-backend-project.herokuapp.com/',
   },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+ 
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
+  'Node.js',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Gthub',
+  'Restful APIs',
+  'Heroku',
+  'Vercel',
+  'Jira',
+  'NPM',
+  'PostgreSQL',
+  'Knex.js',
+  'Express',
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+
+  email: 'cisneros.stephany91@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
