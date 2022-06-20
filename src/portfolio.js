@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://StephanyCisn.github.io/portfolio2',
+  homepage: 'https://portfolio2-blush-three.vercel.app',
   title: 'SC.',
 }
 
