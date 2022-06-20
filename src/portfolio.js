@@ -9,8 +9,8 @@ const about = {
   name: 'Stephany Cisneros',
   role: 'Full Stack Developer',
   description:
-    `I'm a very ambitious full-stack developer looking for an entry level role with the opportunity to work with the latesttechnologies on challenging and diverse projects.`,
-  resume: 'file:///Users/stephanycisneros/Downloads/Resume+(3).html',
+    `I'm a full-stack developer looking for an opportunity to work with the latest technologies on challenging and diverse projects. I enjoy building functional web applications through clean code and user-centric design.`,
+  resume: 'https://docs.google.com/document/d/e/2PACX-1vTMr_DTKIIKU5H_WH_vVudLvllvhF2yCkRb8oVChdhIbaVMEX94DsJTSNpnpZds_PcKAHWv--zTxbwg/pub',
   social: {
     linkedin: 'https://www.linkedin.com/in/stephany-cisneros/',
     github: 'https://github.com/StephanyCisn',
