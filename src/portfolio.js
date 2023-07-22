@@ -42,7 +42,7 @@ const projects = [
       'Built an API - defining routes, URL’s and middleware to perform CRUD operations on dishes and orders resources',
     stack: ['Express', 'Javascript'],
     sourceCode: 'https://github.com/StephanyCisn/Grubdash-backend',
-    livePreview: 'https://grubdash-backend-project.herokuapp.com/',
+    livePreview: 'https://grubdash-eb35c9bf5972.herokuapp.com/',
   },
 ]
 
