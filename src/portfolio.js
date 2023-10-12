@@ -34,16 +34,15 @@ const projects = [
       'Full Stack application used for creating and managing tables and reservations for a hypothetical restaurant.',
     stack: ['PostgreSQL', 'Express', 'React', 'Node.js'],
     sourceCode: 'https://github.com/StephanyCisn/starter-restaurant-reservation',
-    livePreview: 'https://final-cap-frontend.vercel.app/dashboard',
+    livePreview: 'https://restaurant-reservation-frontend-6j8c.onrender.com',
   },
-  {
-    name: 'Grubdash',
-    description:
-      'Built an API - defining routes, URL’s and middleware to perform CRUD operations on dishes and orders resources',
-    stack: ['Express', 'Javascript'],
-    sourceCode: 'https://github.com/StephanyCisn/Grubdash-backend',
-    livePreview: 'https://grubdash-eb35c9bf5972.herokuapp.com/',
-  },
+  {name: 'Grubdash',
+  description:
+  'Built an API - defining routes, URLs and middleware to perform CRUD operations on dishes and orders resources',
+  stack: ['Node.JS', 'Express',],
+  sourceCode: 'https://github.com/StephanyCisn/Grubdash-backend.git',
+  livePreview: 'https://grubdash-fb47.onrender.com',
+}
 ]
 
 const skills = [
